@@ -1,0 +1,28 @@
+{
+  "storyboard": [
+    {
+      "scene": 1,
+      "description": "A lone knight enters a misty forest.",
+      "duration": 7,
+      "character": "Hero",
+      "visual_style": "cinematic",
+      "genre": "fantasy"
+    },
+    {
+      "scene": 2,
+      "description": "He finds a glowing sword stuck in a stone.",
+      "duration": 6,
+      "character": "Hero",
+      "visual_style": "cinematic",
+      "genre": "fantasy"
+    },
+    {
+      "scene": 3,
+      "description": "A shadowy figure watches from the treeline.",
+      "duration": 5,
+      "character": "Villain",
+      "visual_style": "noir",
+      "genre": "fantasy"
+    }
+  ]
+}
