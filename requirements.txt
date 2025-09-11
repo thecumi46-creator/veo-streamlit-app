@@ -1,2 +1,4 @@
+huggingface_hub
 streamlit
-google-genai>=0.3.0
+imageio-ffmpeg
+google-generativeai
